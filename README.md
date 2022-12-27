@@ -1,6 +1,13 @@
-### Hi there :smile:
+<div align="center">
+  <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
 
-:boom: I'm Maurício Araújo, I'm a Front-End Programmer, I currently have agile skills and have already created projects using:
+<h3 align="center">
+  I'm Maurício Araújo, a Front-end developer from Brazil
+</h3>
+
+<blockquote align="center">“You can create anything: just write”! C.S. Lewis</blockquote>
+
 <br>
 <br>
 <div align="center">
