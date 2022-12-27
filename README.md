@@ -12,9 +12,24 @@
 
 <blockquote align="center">“You can create anything: just write”! C.S. Lewis</blockquote>
   
+  <img align="right" width="395" height="400" src="https://hum-systems.com/site/templates/images/jobs/developer_m.png">
+  
+ ---
+Front-end | Developer :robot:.
+
+Graduated in Computer Science at UNINORTE and working with Mobile and Web Application Development. :woman_technologist:
+
+### About me :
+- 💻 Working with ReactJs and React Native
+- 📚 Studying Node and AWS
+- 💜 Always trying to help other devs in the best way possible
+- 🧒 DevClub community member
+
+---
+  
 <br>
 <br>
-<div align="center">
+<div align="left">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioAraujo1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioAraujo1&layout=compact&langs_count=7&theme=dracula"/>
