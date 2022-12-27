@@ -9,7 +9,7 @@
 <blockquote align="center">“You can create anything: just write”! C.S. Lewis</blockquote>
 <br>
   
-  <img align="right" width="395" height="400" src="https://hum-systems.com/site/templates/images/jobs/developer_m.png">
+  <img align="right" width="380" height="380" src="https://hum-systems.com/site/templates/images/jobs/developer_m.png">
  
  
  ---
