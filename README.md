@@ -2,12 +2,16 @@
   <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="25px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 </div>
 
+<div align="center">
+  <h3> <img align="center" alt="Mauricio-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D03AQEbkNYBQDNeFw/profile-displayphoto-shrink_800_800/0/1671553574434?e=1677715200&v=beta&t=-5Ovo8MQEOSs7C8SQoGdQGeYUpffjUobswwFuh-1ROA">
+ </div>
+  
 <h3 align="center">
   I'm Maurício Araújo, a Front-end developer from Brazil
 </h3>
 
 <blockquote align="center">“You can create anything: just write”! C.S. Lewis</blockquote>
-
+  
 <br>
 <br>
 <div align="center">
