@@ -14,7 +14,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+         
   <script src="https://gist.github.com/EvanBacon/f4597fa1156772a111a44d1935d80a12.js"></script>
 </div>
   
