@@ -3,7 +3,7 @@
 </div>
   
 <h3 align="center">
-  I'm Maurício Araújo, a Front-end developer from Brazil
+  I'm Maurício Araújo, a Front-end developer from Eua
 </h3>
 
 <blockquote align="center">“You can create anything: just write”! C.S. Lewis</blockquote>
