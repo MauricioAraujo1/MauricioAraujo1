@@ -17,7 +17,7 @@ Front-end | Developer :robot:.
 Graduated in Computer Science at UNINORTE and working with Mobile and Web Application Development. :woman_technologist:
 
 ### About me :
-- 💻 Working with ReactJs and React Native
+- 💻 Working with React.Js and React Native
 - 📚 Studying Node and AWS
 - 💜 Always trying to help other devs in the best way possible
 - 🧒 DevClub community member
