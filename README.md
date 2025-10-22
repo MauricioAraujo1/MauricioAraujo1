@@ -20,7 +20,7 @@ Graduated in Computer Science at UNINORTE and working with Mobile and Web Applic
 - 💻 Working with ReactJs and React Native
 - 📚 Studying Node and AWS
 - 💜 Always trying to help other devs in the best way possible
-- 🧒 DevClub community member
+- 🧒 Rocketseat community member
 
 ---
   
