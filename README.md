@@ -12,7 +12,7 @@
  
  
  ---
-Front-end | Developer :robot:.
+Software | Engineer :robot:.
 
 Graduated in Computer Science at UNINORTE and working with Mobile and Web Application Development. :woman_technologist:
 
