@@ -8,9 +8,7 @@
 
 <div align="center">“You can create anything: just write”! C.S. Lewis</div>
   <br>
-  <img align="right" width="350" height="350" src="https://hum-systems.com/site/templates/images/jobs/developer_m.png">
- 
- 
+  
  ---
 Software | Engineer :robot:.
 
