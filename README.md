@@ -17,7 +17,7 @@ Software | Engineer :robot:.
 Graduated in Computer Science at UNINORTE and working with Mobile and Web Application Development. :woman_technologist:
 
 ### About me :
-- 💻 Working with Nodejs, Java, Spring boot.
+- 💻 Working with Nodejs, Nest.js, PostgreSQL, Oracle Cloud.
 - 📚 Studying SwiftUI
 - 💜 Always trying to help other devs in the best way possible
 - 🧒 Rocketseat community member
